@@ -90,9 +90,8 @@ Mar 2021 – Sep 2024   Technology Analyst, Cloud & DevOps — Infosys (Client: 
 
 <div align="center">
 
-<a href="https://github.com/Sanjay-Naidu/project3-python-cicd-sonar-trivy-acr-aks-helm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjay-Naidu&repo=project3-python-cicd-sonar-trivy-acr-aks-helm&theme=tokyonight&hide_border=true"/>
-</a>
+#### [🔗 project3-python-cicd-sonar-trivy-acr-aks-helm](https://github.com/Sanjay-Naidu/project3-python-cicd-sonar-trivy-acr-aks-helm)
+
 
 *End-to-end CI/CD pipeline — GitHub Actions + Azure DevOps, SonarQube quality gates, Trivy vulnerability scanning, Docker → ACR → AKS via Helm, with manual approval gates and automated rollback.*
 
@@ -104,12 +103,9 @@ Mar 2021 – Sep 2024   Technology Analyst, Cloud & DevOps — Infosys (Client: 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanjay-Naidu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-Naidu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-Naidu&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjay-Naidu&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
