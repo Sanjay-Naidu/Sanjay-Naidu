@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-I'm a **DevOps / Platform Engineer** with **5+ years of experience** across **Azure, AWS, and Kubernetes**, specializing in **Infrastructure as Code, CI/CD automation, and cloud-native architecture**. Currently the **sole Azure owner** at **Eversana**, where I independently drive provisioning, IaC, CI/CD, and Azure OpenAI operations — delivering **$87,500 in annual cloud cost savings** along the way.
+I'm a **DevOps / Platform Engineer** with **5+ years of experience** across **Azure, GCP, AWS, and Kubernetes**, specializing in **Infrastructure as Code, CI/CD automation, and cloud-native architecture**. Currently the **sole Azure owner** at **Eversana**, where I independently drive provisioning, IaC, CI/CD, and Azure OpenAI operations — delivering **$87,500 in annual cloud cost savings** along the way.
 
 - 🔭 Currently owning end-to-end **Azure infrastructure** and **Azure OpenAI** deployments at **Eversana**
 - ⚙️ Building everything **Infrastructure as Code** — Terraform, first and always
