@@ -16,7 +16,7 @@ I'm a **DevOps / Platform Engineer** with **5+ years of experience** across **Az
 
 - 🔭 Currently owning end-to-end **Azure infrastructure** and **Azure OpenAI** deployments at **Eversana**
 - ⚙️ Building everything **Infrastructure as Code** — Terraform, first and always
-- ☁️ Multi-cloud: **Azure (primary)**, **AWS**, and **GCP (IAM, Storage)**
+- ☁️ Multi-cloud: **Azure (primary)**, **AWS**, and **GCP (GKE, Artifact Registry, Workload Identity Federation, IAM)**
 - 🛡️ DevSecOps mindset — Key Vault, Zero Trust, TLS/SSL, least-privilege IAM by default
 - 🏆 Infosys Insta Award (2023) for outstanding contributions to cloud automation
 - 📜 Certified: **AZ-104 · AZ-400 · AZ-900 · HashiCorp Terraform Associate**
@@ -52,6 +52,7 @@ I'm a **DevOps / Platform Engineer** with **5+ years of experience** across **Az
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 <img src="https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
 **Monitoring, Security & Quality**
 
@@ -97,6 +98,10 @@ AKS/EKS orchestration, DR strategy, DevSecOps gates
 #### [🔗 project4-node_js-cicd-sonar-trivy-acr-aks-helm](https://github.com/Sanjay-Naidu/project4-node_js-cicd-sonar-trivy-acr-aks-helm)
 
 *Node.js (Express) REST API delivery pipeline on Azure AKS — Maven-driven polyglot build, GitHub Actions with OIDC, SonarCloud, Trivy, CodeQL, Terraform IaC, and zero-downtime Helm rollouts.*
+
+#### [🔗 project5-java-cicd-trivy-gke-helm](https://github.com/Sanjay-Naidu/project5-java-cicd-trivy-gke-helm)
+
+*Spring Boot (Java 21) e-commerce storefront on Google Kubernetes Engine — GitHub Actions with Workload Identity Federation (keyless OIDC, no service account keys), Trivy gate before push, CycloneDX SBOM, distroless images in Artifact Registry, GKE Ingress on a global load balancer, Helm with HPA/PDB and zero-downtime rollouts, plus scripted teardown.*
 
 </div>
 
